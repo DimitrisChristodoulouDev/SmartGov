@@ -1,0 +1,18 @@
+
+
+.nav-down {
+    position: fixed;
+    top: 0;
+    transition: top 0.9s ease-in-out;
+    width: 100%;
+    z-index: 999;
+}
+
+.nav-up {
+    top: -40px;
+}
+
+
+.tm_view .img-responsive{
+    margin: 0 auto;
+}
