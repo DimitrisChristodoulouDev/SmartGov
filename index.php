@@ -31,7 +31,7 @@
     <div class="login-box">
         <div class="logo">
             <a href="javascript:void(0);">Smart<b>Gov</b></a>
-            <small>Advanced decision support for Smart Governance Adwnis</small>
+            <small>Advanced decision support for Smart Governance </small>
         </div>
         <div class="card">
             <div class="body">
